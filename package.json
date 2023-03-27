@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwingpacheco/tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darwingpacheco/tailwindcss/issues"
+  },
+  "homepage": "https://github.com/darwingpacheco/tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
